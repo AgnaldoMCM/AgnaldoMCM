@@ -36,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AgnaldoMCM/AgnaldoMCM/output/snake.svg" alt="Snake animation" />
+
 
 ###
 

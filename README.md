@@ -1,24 +1,14 @@
-<img align="left" height="150" src="https://i.imgur.com/tMUYZz0.png" style="margin-right: 20px; border-radius: 10px;" />
-
-<h2 align="left">Hi 👋! My name is Agnaldo Matheus</h2>
-
-<h3 align="left">I'm a Full Stack Developer:</h3>
-
-<p align="left">
-JavaScript<br>
-HTML<br>
-CSS<br>
-TypeScript<br>
-Node<br>
-Express<br>
-noSQL<br>
-React<br>
-Hooks<br>
-Redux<br>
-Design Patterns
+<p align="center">
+  <img height="150" src="https://i.imgur.com/tMUYZz0.png" style="border-radius: 10px;" />
 </p>
 
-<br clear="left"/>
+<h2 align="center">Hi 👋! My name is Agnaldo Matheus</h2>
+
+<h3 align="center">I'm a Full Stack Developer</h3>
+
+<p align="center">
+JavaScript • HTML • CSS • TypeScript • Node • Express • noSQL • React • Hooks • Redux • Design Patterns
+</p>
 
 ---
 
@@ -67,4 +57,3 @@ Design Patterns
   </a>
 
 </div>
-

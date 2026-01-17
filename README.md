@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="150" src="https://imgur.com/a/LVt7N5N.png" style="border-radius: 10px;" />
+  <img height="150" src="https://i.imgur.com/XbNo4u4.jpeg" style="border-radius: 10px;" />
 </p>
 
 <h2 align="center">Hi 👋! My name is Agnaldo Matheus</h2>

@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi 👋! My name is Agnaldo Matheus</h2>
 
-<h3 align="center">I'm a Full Stack Developer</h3>
+<h3 align="center">I'm a Developer</h3>
 
 <p align="center">
 JavaScript • HTML • CSS • TypeScript • Node • Express • noSQL • React • Hooks • Redux • Design Patterns
